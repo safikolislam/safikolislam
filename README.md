@@ -50,22 +50,18 @@ I enjoy turning creative ideas into functional, high-quality websites using mode
 </p>
 
 📍 **Location:** Bangladesh  
-📧 **Email:** safikolislam@example.com *(replace with your real one)*  
-📱 **Contact:** +8801XXXXXXXXX  
+📧 **Email:** safikolislam72@gmail.com  
+📱 **Contact:** +8801881799990  
 
 ---
 
-## 📊 **GitHub Stats**
 
-![Safikol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safikolislam&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safikolislam&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safikolislam&theme=radical)
 
 ---
 
 ## 📌 **Pinned Projects**
 
-### 🌍 [Tourism Website](https://github.com/safikolislam/tourism-website)
+### 🌍 [recipy Website](https://github.com/safikolislam/tourism-website)
 > A responsive tourism website showcasing travel destinations, packages, and booking features.  
 🔗 [Live Demo](https://jocular-druid-402f46.netlify.app/)  
 🛠️ **Tech Used:** React.js, Tailwind CSS, Firebase  
