@@ -65,7 +65,7 @@ I enjoy turning creative ideas into functional, high-quality websites using mode
 
 ## 📌 **Pinned Projects**
 
-###
+### 🌍 [Tourism Website](https://github.com/safikolislam/tourism-website)
 > A responsive tourism website showcasing travel destinations, packages, and booking features.  
 🔗 [Live Demo](https://jocular-druid-402f46.netlify.app/)  
 🛠️ **Tech Used:** React.js, Tailwind CSS, Firebase  
@@ -79,15 +79,16 @@ I enjoy turning creative ideas into functional, high-quality websites using mode
 
 ---
 
-### 🎬 [Medicines seller App]
-> A simple movie search app using an external API.  
+### 💊 [Medicines Seller App](https://github.com/safikolislam/medicines-seller-app)
+> A responsive medicine-selling platform with product listing and order features.  
 🔗 [Live Demo](https://courageous-vacherin-33de11.netlify.app/)  
-🛠️ **Tech Used:** React.js, API Fetch, Tailwind CSS  
+🛠️ **Tech Used:** React.js, Tailwind CSS, API Integration  
 
 ---
 
 ⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
 💬 Feel free to reach out for collaboration or just a friendly chat!
+
  
 
 
