@@ -41,9 +41,7 @@ I enjoy turning creative ideas into functional, high-quality websites using mode
   <a href="https://github.com/safikolislam" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40">
   </a>
-  <a href="https://www.linkedin.com/in/safikolislam" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40">
-  </a>
+
   <a href="https://www.facebook.com/md.safikol.islam.ashik" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" />
   </a>
