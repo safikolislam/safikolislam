@@ -10,7 +10,7 @@ I enjoy turning creative ideas into functional, high-quality websites using mode
 
 ### 🚀 **Currently I’m:**
 - 🌱 Exploring **Next.js** and modern frontend tools.  
-- 💼 Working on a **Tourism Website Project**.  
+- 💼 Working on a **Ecommerce Website Project**.  
 - 🧠 Learning advanced **React.js concepts**.  
 - 🤝 Collaborating on open-source projects to improve my skills.  
 
