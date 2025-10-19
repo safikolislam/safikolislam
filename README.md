@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/Df58tvnM/Black-Yellow-Modern-Programmer-Linked-In-Banner.png)
+![Banner](https://i.postimg.cc/k4GYyMcg/Black-and-Red-Gradient-Professional-Linked-In-Banner.png)
 
 # 👋 Hi there, I'm **Safikol Islam**  
 ### 💻 Frontend Web Developer  
