@@ -59,24 +59,24 @@ I enjoy turning creative ideas into functional, high-quality websites using mode
 
 ## 📌 **Pinned Projects**
 
-### 🌍 [recipe Website]
-> A responsive tourism website showcasing travel destinations, packages, and booking features.  
-🔗 [Live Demo](https://classy-paletas-cf3675.netlify.app/)  
-🛠️ **Tech Used:** React.js, Tailwind CSS, Firebase  
 
----
+### 💊 [Medicines Seller App]
+> A responsive medicine-selling platform with product listing and order features.  
+🔗 [Live Demo](https://admirable-taffy-bafd88.netlify.app/)  
+🛠️ **Tech Used:** React.js, Tailwind CSS, API Integration  
+
 
 ### 💰 [Car Rental website]
 > Modern  UI with product listing, filters, and cart functionality.  
 🔗 [Live Demo](https://famous-melomakarona-83919a.netlify.app/)  
 🛠️ **Tech Used:** React.js, Context API, CSS3  
 
----
+### 🌍 [recipe Website]
+> A responsive recipe sharing website.  
+🔗 [Live Demo](https://classy-paletas-cf3675.netlify.app/)  
+🛠️ **Tech Used:** React.js, Tailwind CSS, Firebase  
 
-### 💊 [Medicines Seller App]
-> A responsive medicine-selling platform with product listing and order features.  
-🔗 [Live Demo](https://admirable-taffy-bafd88.netlify.app/)  
-🛠️ **Tech Used:** React.js, Tailwind CSS, API Integration  
+
 
 ---
 
