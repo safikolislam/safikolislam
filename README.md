@@ -1,5 +1,4 @@
-![Banner](https://i.postimg.cc/8cxr2tXN/Gemini-Generated-Image-wobn8wobn8wobn8w.jpg)
-
+![Banner](https://i.postimg.cc/JnWhwtLm/1788371889810.png)
 
 # 👋 Hi there, I'm **Safikol Islam**  
 ### 💻 Mern Developer  
