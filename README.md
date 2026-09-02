@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.postimg.cc/MH8Pzpj1/Chat-GPT-Image-Sep-2-2026-09-51-23-PM.png" alt="Banner" width="100%">
-</p>
+![Banner](https://i.postimg.cc/RqrB5Hcc/Gemini-Generated-Image-wobn8wobn8wobn8w.jpg)
 
 
 # 👋 Hi there, I'm **Safikol Islam**  
