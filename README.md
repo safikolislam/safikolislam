@@ -2,9 +2,9 @@
 
 
 # 👋 Hi there, I'm **Safikol Islam**  
-### 💻 Frontend Web Developer  
+### 💻 Mern Developer  
 
-I’m a passionate Frontend Developer who loves building user-friendly and responsive web applications.  
+I’m a passionate Mern Developer who loves building user-friendly and responsive web applications.  
 I enjoy turning creative ideas into functional, high-quality websites using modern web technologies.
 
 ---
