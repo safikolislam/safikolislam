@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/RqrB5Hcc/Gemini-Generated-Image-wobn8wobn8wobn8w.jpg)
+![Banner](https://i.postimg.cc/8cxr2tXN/Gemini-Generated-Image-wobn8wobn8wobn8w.jpg)
 
 
 # 👋 Hi there, I'm **Safikol Islam**  
