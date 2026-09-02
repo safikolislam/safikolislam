@@ -1,4 +1,7 @@
-![Banner](https://i.postimg.cc/MH8Pzpj1/Chat-GPT-Image-Sep-2-2026-09-51-23-PM.png)
+<p align="center">
+  <img src="https://i.postimg.cc/MH8Pzpj1/Chat-GPT-Image-Sep-2-2026-09-51-23-PM.png" alt="Banner" width="100%">
+</p>
+
 
 # 👋 Hi there, I'm **Safikol Islam**  
 ### 💻 Frontend Web Developer  
