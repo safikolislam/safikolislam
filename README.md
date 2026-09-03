@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/3xMBf4rt/SAFIKOL-GITHUB-COVER.png)
+![Banner](https://i.postimg.cc/pdr9WJPz/Safikol-Islam-github.png)
 
 # 👋 Hi there, I'm **Safikol Islam**  
 ### 💻 Mern Developer  
