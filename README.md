@@ -1,9 +1,9 @@
 ![Banner](https://i.postimg.cc/vmYyrVMW/COVER-SAFIKOL.png)
 
 # 👋 Hi there, I'm **Safikol Islam**  
-### 💻 Mern Developer  
+### 💻 Full-Stack Developer  
 
-I’m a passionate Mern Developer who loves building user-friendly and responsive web applications.  
+I’m a passionate Full-stack who loves building user-friendly and responsive web applications.  
 I enjoy turning creative ideas into functional, high-quality websites using modern web technologies.
 
 ---
