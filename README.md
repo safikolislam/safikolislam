@@ -20,17 +20,20 @@ I enjoy turning creative ideas into functional, high-quality websites using mode
 
 ### 🖥️ **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ **Backend & Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb,postgres,prisma" />
 </p>
+
+**Backend concepts I've worked with:**  
+`REST API Design` • `JWT Authentication (Access + Refresh Token)` • `Role-Based Access Control (RBAC)` • `Zod Validation` • `Prisma ORM & Migrations` • `Database Transactions` • `State Machine Workflows` • `Audit Logs` • `Soft Delete` • `Pagination, Filtering & Search` • `Rate Limiting` • `Helmet & CORS` • `bKash Payment Integration`
 
 ### 🛠️ **Tools & Others**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,figma" />
 </p>
 
 ---
@@ -82,6 +85,7 @@ I enjoy turning creative ideas into functional, high-quality websites using mode
 
 ⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
 💬 Feel free to reach out for collaboration or just a friendly chat!
+
 
  
 
