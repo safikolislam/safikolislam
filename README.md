@@ -9,7 +9,6 @@ I enjoy turning creative ideas into functional, high-quality websites using mode
 ---
 
 ### 🚀 **Currently I’m:**
-- 🌱 Exploring **Next.js** and modern frontend tools.  
 - 💼 Working on a **Ecommerce Website Project**.  
 - 🧠 Learning advanced **React.js concepts**.  
 - 🤝 Collaborating on open-source projects to improve my skills.  
@@ -20,7 +19,7 @@ I enjoy turning creative ideas into functional, high-quality websites using mode
 
 ### 🖥️ **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ **Backend & Database**
